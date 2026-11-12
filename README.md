@@ -1,6 +1,6 @@
 # ER Services – Sistema de Gestión de Servicio Técnico de Computadores
 
-Prototipo web (frontend) de un proyecto académico de Ingeniería de Sistemas. Representa una empresa ficticia de servicio técnico de computadores en Norte de Santander, Colombia. Centraliza la información de **Cliente → Equipo → Servicio → Técnico → Estado → Valor**.
+Prototipo web (frontend) de un proyecto académico de Ingeniería de Sistemas. Representa una empresa de servicio técnico de computadores en Norte de Santander, Colombia. Centraliza la información de **Cliente → Equipo → Servicio → Técnico → Estado → Valor**.
 
 ## Tecnologías
 HTML5, CSS3 y JavaScript puro. **No usa librerías externas ni internet**: los gráficos están dibujados con SVG propio.
